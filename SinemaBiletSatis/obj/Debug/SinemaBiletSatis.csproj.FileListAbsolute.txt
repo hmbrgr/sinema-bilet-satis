@@ -1,0 +1,137 @@
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe.config
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.pdb
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.AssemblyReference.cache
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.SuggestedBindingRedirects.cache
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Properties.Resources.resources
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CoreCompileInputs.cache
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.exe
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.pdb
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Filmsecim.resources
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.biletsecim.resources
+C:\Users\doruk\source\repos\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.koltuksecimekrani.resources
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe.config
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.pdb
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.AssemblyReference.cache
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.SuggestedBindingRedirects.cache
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.biletsecim.resources
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.koltuksecimekrani.resources
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Filmsecim.resources
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Properties.Resources.resources
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CoreCompileInputs.cache
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.exe
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.pdb
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.odemeyontemi.resources
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe.config
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.pdb
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\BouncyCastle.Crypto.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Hash.xxHash.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\MySql.Data.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Buffers.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.IO.Pipelines.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Memory.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Numerics.Vectors.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\BouncyCastle.Crypto.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.pdb
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Hash.xxHash.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\MySql.Data.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Buffers.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.IO.Pipelines.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Memory.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Numerics.Vectors.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.AssemblyReference.cache
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.SuggestedBindingRedirects.cache
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.biletsecim.resources
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.koltuksecimekrani.resources
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Filmsecim.resources
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.odemeyontemi.resources
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Properties.Resources.resources
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CoreCompileInputs.cache
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CopyComplete
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.exe
+D:\1Nesne Tabanlı Programlama\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.pdb
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\BouncyCastle.Crypto.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Hash.xxHash.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\MySql.Data.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Buffers.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.IO.Pipelines.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Memory.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Numerics.Vectors.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\BouncyCastle.Crypto.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.pdb
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Hash.xxHash.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\MySql.Data.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Buffers.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.IO.Pipelines.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Memory.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Numerics.Vectors.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CopyComplete
+D:\SinemaBiletSatis\SinemaBiletSatis\bin\Debug\ZstdNet.dll
+D:\SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Baslangic.resources
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe.config
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.exe
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\SinemaBiletSatis.pdb
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\BouncyCastle.Crypto.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Hash.xxHash.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\MySql.Data.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Buffers.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.IO.Pipelines.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Memory.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Numerics.Vectors.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\ZstdNet.dll
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\BouncyCastle.Crypto.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.pdb
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\Google.Protobuf.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\K4os.Hash.xxHash.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\MySql.Data.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Buffers.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.IO.Pipelines.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Memory.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Numerics.Vectors.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.AssemblyReference.cache
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.SuggestedBindingRedirects.cache
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.biletsecim.resources
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Baslangic.resources
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.koltuksecimekrani.resources
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Filmsecim.resources
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.odemeyontemi.resources
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.Properties.Resources.resources
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.GenerateResource.cache
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CoreCompileInputs.cache
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.csproj.CopyComplete
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.exe
+D:\Doruk_SinemaBiletSatis\SinemaBiletSatis\obj\Debug\SinemaBiletSatis.pdb
